@@ -2,7 +2,7 @@
 
 ### I'm Patrick Cox, an overachiever who's been adoring computers since 3rd Grade!
 
-🔭 I’m presently working Ledger: a Financial Solutions software project. It's a Blazor web-app using five languages and more libraries / dependencies! Check out my Ledger Repo if you're interested!
+🔭 I’m presently working on Ledger: a Financial Solutions software project. It's a Blazor web-app using five languages and more libraries / dependencies! Check out my Ledger Repo if you're interested!
 
 🌱 I’m currently learning the discord API while I develop my own bot: Scordle! Check out my Scordle Repo if you're interested!
 
