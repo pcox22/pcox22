@@ -2,9 +2,9 @@
 
 ### I'm Patrick Cox, an overachiever who's been adoring computers since 3rd Grade!
 
-🔭 I’m presently working on Ledger: a Financial Solutions software project. It's a Blazor web-app using five languages and more libraries / dependencies! Check out my Ledger Repo if you're interested!
+🔭 I’m concluding my work on Ledger - a Financial Solutions software project. It's a Blazor web-app using five languages and more libraries / dependencies! Check out my Ledger Repo if you're interested! My next step will be ExPokedle, and it'll be the most learning I've done in a while.
 
-🌱 I’m currently learning the discord API while I develop my own bot: Scordle! Check out my Scordle Repo if you're interested!
+🌱 I’m currently learning the discord API while I develop my own bot: Scordle! Check out my Scordle Repo if you're interested! Similarly, I'll soon be tackling Angular and Supabase for ExPokedle.
 
 🤔 Interests: I'd love to utilize a Full-Stack Engineering opportunity. I've got experience doing so, and I love all aspects of it!
 
@@ -21,15 +21,4 @@
 
 <!--
 **pcox22/pcox22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
